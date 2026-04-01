@@ -77,6 +77,10 @@ In the Message field in the Primary Side Bar, enter "Cisco SNMP playbook for IOS
 <img width="946" height="774" alt="image" src="https://github.com/user-attachments/assets/711dedda-432c-4e98-8a0f-90f005d213b8" />
 
 
+Return to the terminal and run the cisco_snmp.yml playbook.
+
+Copy all files from the ~/run-git directory to the ~/snmp directory. This copies the ansible-navigator.yml and inventory files to the repository directory so that the playbook runs. Add and commit these files to complete the project:
+
 
 
 
